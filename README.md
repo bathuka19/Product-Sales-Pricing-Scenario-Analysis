@@ -54,3 +54,5 @@ The analysis is designed to answer the following business questions:
 - Assess whether increased demand offsets margin reduction.
 - Compare scenario performance against the baseline.
 - Support targeted, data-driven pricing and promotion decisions.
+## Project Files
+
