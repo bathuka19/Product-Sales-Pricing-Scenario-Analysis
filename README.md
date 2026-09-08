@@ -56,4 +56,5 @@ The analysis is designed to answer the following business questions:
 - Support targeted, data-driven pricing and promotion decisions.
 ## Project Files
 - **[Power BI Dashboard]([PowerBI/Product%20Sales%20Scenarios.pbix](https://github.com/bathuka19/Product-Sales-Pricing-Scenario-Analysis/blob/main/Product%20Sales%20Scenarios.pbix)** – Interactive Power BI dashboard, data model, DAX measures, and scenario analysis.
+- **[Dashboard Screenshot](Screenshots/Product%20Sales%20Scenarios%20Dashboard.png)** – Preview of the completed dashboard.
 
